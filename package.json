@@ -1,0 +1,17 @@
+{
+  "name": "cucumberjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@cucumber/cucumber": "latest",
+    "selenium-webdriver": "latest",
+    "chromedriver": "latest",
+    "chai": "latest"
+  }
+}
